@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "476742107883",
+    "firebase_url": "https://cursoudemyflutter48212.firebaseio.com",
+    "project_id": "cursoudemyflutter48212",
+    "storage_bucket": "cursoudemyflutter48212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476742107883:android:d89e8a8fba27f1c6eeb4ae",
+        "android_client_info": {
+          "package_name": "moble.serpro.gov.br.carros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476742107883-e2t4ttku56m0n44t2q154fot2g1q3q4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "moble.serpro.gov.br.carros",
+            "certificate_hash": "f356528dc49f0a81e79893b3ec35778f56776334"
+          }
+        },
+        {
+          "client_id": "476742107883-5epjjgm28biri8b4ra0iuad5n7isbjj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw0XmrjwlZcgxDC7X_pcBxZtH1fsPgg1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476742107883-5epjjgm28biri8b4ra0iuad5n7isbjj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
